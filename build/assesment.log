@@ -2,10 +2,10 @@
 {
   _: [],
   f: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-use-of-vr-iitd/experiment/pretest.json'
+    '/home/shubham/Documents/exp-use-of-vr-iitd/experiment/pretest.json'
   ],
   files: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-use-of-vr-iitd/experiment/pretest.json'
+    '/home/shubham/Documents/exp-use-of-vr-iitd/experiment/pretest.json'
   ],
   c: 'assessment',
   contentTypes: 'assessment',
@@ -17,10 +17,10 @@ Validated true
 {
   _: [],
   f: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-use-of-vr-iitd/experiment/posttest.json'
+    '/home/shubham/Documents/exp-use-of-vr-iitd/experiment/posttest.json'
   ],
   files: [
-    '/home/mediatechlab/Documents/Virtual-Labs/exp-use-of-vr-iitd/experiment/posttest.json'
+    '/home/shubham/Documents/exp-use-of-vr-iitd/experiment/posttest.json'
   ],
   c: 'assessment',
   contentTypes: 'assessment',

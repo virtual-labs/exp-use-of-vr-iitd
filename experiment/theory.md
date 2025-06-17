@@ -26,4 +26,3 @@ VR enhances teaching and learning by presenting information in virtual environme
 
 #### 7. Performing Arts
 Wearable accessories enhance the simulation experience, allowing artists to interact with their virtual environments in desired ways.
-
